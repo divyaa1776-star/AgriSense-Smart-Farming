@@ -1,0 +1,2 @@
+timestamp,experiment,algorithm,metric,value,notes
+2026-10-11T02:00:43,Irrigation model comparison,Random Forest,F1 score,0.98,Synthetic-data demonstration
